@@ -74,5 +74,5 @@ Berikut beberapa rekomendasi public API yang bisa Anda manfaatkan dalam pengerja
 - Anda akan mendapat notifikasi hasil pengumpulan submission Anda via email, atau Anda dapat mengecek status submission pada akun Dicoding Anda.
 
 
-# Demo 
-upcoming
+# Demo App
+https://sapmovie27.firebaseapp.com/
