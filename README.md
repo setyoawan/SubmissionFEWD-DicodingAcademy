@@ -1,4 +1,4 @@
-# front-end web API
+# Front-End Web Development
 
 # SAP MOVIE <br/>
 Website about movie list referensi, there are some genre in this Website. you can see some referensi for you watch in real website movie when pandemic covid-19.
@@ -74,5 +74,5 @@ Berikut beberapa rekomendasi public API yang bisa Anda manfaatkan dalam pengerja
 - Anda akan mendapat notifikasi hasil pengumpulan submission Anda via email, atau Anda dapat mengecek status submission pada akun Dicoding Anda.
 
 
-# Demo App
+# Deploy 
 https://sapmovie27.firebaseapp.com/
